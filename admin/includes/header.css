@@ -1,0 +1,140 @@
+body{
+        font-family: Arail, sans-serif;
+        background-color: #eeeeee;
+    }
+    /* Formatting search box */
+.search-box{
+        width: 600px;
+        position: relative;
+        display: inline-block;
+        font-size: 14px;
+        background-color: red;
+
+    }
+.search-box input[type="text"]{
+        height: 32px;
+        padding: 5px 10px;
+        border: 1px solid #CCCCCC;
+        font-size: 14px;
+        margin-right: 20px;
+        background-color: red;
+
+    }
+.result{
+        position: absolute;        
+        top: 100%;
+        left: 0;
+        z-index: 9;
+        margin: 20px;
+    }
+.search-box input[type="text"], .result{
+        width: 100%;
+        box-sizing: border-box;
+         z-index: 10;
+
+    }
+    /* Formatting result items */
+.result p{
+        margin: 0;
+        padding: 7px 10px;
+        border-top: none;
+        cursor: pointer;
+        width: 100%;
+        z-index: 9;
+        position: relative;
+  
+    }
+.result p:hover{
+        background: #f2f2f2;
+    }
+.down{
+  margin-top: 50px;
+}
+/*a button{
+  color: #f2f2f2;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  padding: 8px 15px;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+  background-color: black;
+  //display: none;
+}*/
+
+/*#button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    padding-top: 2px;
+    //height: 35px;
+    text-align: center;
+}*/
+/*.nav{
+  margin-top: -28px;
+
+}*/
+.cart{
+  margin-left: -100px;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav button{
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  background: none;
+  border:none;
+  
+}
+
+.topnav a:hover {
+  background-color: #ffffff;
+  color: black;
+}
+.topnav button:hover{
+  background-color: #ffffff;
+  color: black;
+}
+.topnav .active {
+  background-color: #333;
+  color: white;
+  float: left;
+  text-align: center;
+}
+.loggin{
+  float: left;
+}
+.content{
+  margin-top: -185px;
+}
+
+
+
+  

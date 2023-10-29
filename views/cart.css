@@ -1,0 +1,40 @@
+.cartdisplay{
+ 		margin-top: 250px;
+ 	}
+ 	.cquantity{
+ 		margin-left: 100px;
+ 	}
+ 	.cprice{
+ 		margin-left: 100px;
+ 	}
+ 	.csubtotal{
+ 		margin-left: 80px;
+ 	}
+ 	.coptions{
+ 		margin-left: 80px;
+ 		text-decoration: none;
+ 	}
+ 	a:hover{
+ 		background-color: white;
+ 	}
+ 	.cr{
+ 		margin-top: -4px;
+ 	}
+ 	.ccheck{
+ 		font-size: 25px;
+ 		font-weight: bold;
+ 	}
+ 	.button{
+ 		//font-size: 20px;
+ 		background-color:white;
+ 		font-weight: bold;
+ 	}
+ 	.button:hover{
+ 		color: blue;
+ 	}
+ 	.sh{
+ 		padding-top: 10px;
+ 	}
+ 	.tot{
+ 		padding-top: 10px;
+ 	}

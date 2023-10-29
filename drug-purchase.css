@@ -1,0 +1,88 @@
+.name{
+	margin-top: 300px;
+	background-color: #ffffff;
+	//height: 100px;
+	//width: 200px;
+	//color:blue;
+	padding-bottom: 10px;
+	height:200px;
+	padding-top: 30px;
+	padding-left: 150px;
+}
+.cart{
+	text-decoration: none;
+	color: #ffffff;
+	//margin-left: -30px;
+
+}
+.cartb{
+	width: 50px;
+	height: 20px;
+	background-color: #2af7f1;
+	margin-left: -20px;
+
+}
+.medicine_name{
+	color: #0ACBEE;
+	font-size: 25px;
+}
+.price{
+	font-size: 20px;
+	font-weight: bold;
+}
+.drug{
+	text-decoration: none;
+	margin-left: 200px;
+	margin-top: -200px;
+	border : 2px solid green;
+	padding: 20px;
+	color: green;
+
+}
+.over{
+	//border:2px solid blue;
+	border: 2px dotted orange;
+	padding-bottom: 20px;
+	
+}
+.inte{
+	margin-top: 10px;
+	border: 2px dotted orange;
+	margin-right: 1200px;
+	text-decoration: none;
+
+}
+.info{
+	font-size: 40px;
+	color: red;
+	margin-top: -20px;
+	text-align: center;
+}
+#overview{
+	border:2px dotted red;
+}
+.linke{
+	margin-top: 80px;
+	color: blue;
+	font-weight: bold;
+}
+.enc{
+	margin-left: 500px;
+
+}
+.truck{
+	//margin-left: 450px;
+	font-size: 80px;
+	color: #00acee;
+	margin-top: -120px;
+}
+.shipp{
+	margin-left: 150px;
+	margin-top: 60px;
+
+}
+.aff{
+	font-size: 30px;
+	margin-top: -200px;
+	color: #5505eb;
+}

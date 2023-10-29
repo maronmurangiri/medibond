@@ -1,0 +1,16 @@
+{
+    "name": "maron/medibond",
+    "description": "payment getway",
+    "type": "project",
+    "require": {
+        "authorizenet/authorizenet": "^2.0",
+        "zendframework/zend-mail": "^2.10",
+        "zendframework/zendframework": "^3.0",
+        "phpmailer/phpmailer": "^6.3"
+    },
+    "require-dev": {
+        "authorizenet/authorizenet": "^2.0"
+    },
+    "license": "1.0",
+    "minimum-stability": "stable"
+}

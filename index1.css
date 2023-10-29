@@ -1,0 +1,209 @@
+body{
+	background-color: #eeeeee;
+}
+.user{
+	margin-top: -40px;
+	color: green;
+	font-size: 30px;
+	margin-left: 20px;
+}
+.dashboard{
+	margin-top: 80px;
+	margin-left: 100px;
+}
+.tile{
+	margin-left: 60px;
+	margin-top: -10px;
+}
+.prescription{
+	background-color: #ffffff;
+	display: inline-block;
+	width: 180px;
+	margin-top: 30px;
+	margin-left: 100px;
+	text-decoration: none;
+
+
+}
+.prescription:hover{
+	background-color: #ba78c4;
+}
+.medical{
+	color: purple;
+	font-size: 40px;
+	text-align: center;
+}
+.prescription1{
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	text-decoration: none;
+
+}
+.prescription2{
+	text-align: center;
+	//font-size: 20px;
+	padding-bottom: 20px;
+	text-decoration: none;
+
+}
+
+.patient{
+	background-color: #ffffff;
+	margin-left:400px;
+	width: 180px;
+	margin-top: -270px;
+	height: 210px;
+	padding-bottom: 20px;
+
+}
+.patient:hover{
+	background-color: #ba78c4;
+}
+
+.patients{
+	color:#4674f2;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 20px;
+
+}
+.patient1{
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+}
+.patient2{
+	text-align: center;
+	padding-top: -5px;
+	padding-bottom:50px;
+}
+
+
+.order{
+	background-color: #ffffff;
+	width: 180px;
+	margin-left: 700px;
+	margin-top: -265px;
+
+}
+.order:hover{
+	background-color: #ba78c4;
+}
+.dollar{
+	font-size: 40px;
+	text-align: center;
+	padding-top: 30px;
+}
+.order1{
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+}
+.order2{
+	text-align: center;
+	padding-bottom: 20px;
+
+
+}
+.prescriber{
+	background-color: #ffffff;
+	width: 180px;
+	margin-left: 1000px;
+	margin-top: -260px;
+}
+.prescriber:hover{
+	background-color: #ba78c4;
+}
+.prescriber1{
+	text-align: center;
+	font-size: 40px;
+	color: #6273a3;
+	padding-top: 30px;
+
+}
+.prescriber2{
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+.prescriber3{
+	text-align: center;
+	padding-bottom: 20px;
+}
+.address{
+	width:180px;
+	background-color: #ffffff;
+	margin-left: 250px;
+	margin-top: 60px;
+}
+.address:hover{
+	background-color: #ba78c4;
+}
+.address1{
+	color: #0ced4f;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 30px;
+}
+.address2{
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+}
+.address3{
+	text-align: center;
+	padding-bottom: 30px;
+}
+.payment{
+	width: 180px;
+	background-color: #ffffff;
+	margin-left: 580px;
+	margin-top: -260px;
+
+}
+.payment:hover{
+	background-color: #ba78c4;
+}
+.payment1{
+	color: #798b94;
+	font-size: 40px;
+	padding-top: 30px;
+	text-align: center;
+}
+.payment2{
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+}
+.payment3{
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.setting{
+	width: 180px;
+	background-color: #ffffff;
+	margin-left: 900px;
+	margin-top: -260px;
+
+}
+.setting:hover{
+	background-color: #ba78c4;
+}
+.setting1{
+	color: #464a4d;
+	font-size: 40px;
+	padding-top: 30px;
+	text-align: center;
+}
+.setting2{
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+
+}
+.setting3{
+	text-align: center;
+	padding-bottom: 20px;
+}
